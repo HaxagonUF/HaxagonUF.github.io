@@ -116,11 +116,12 @@ article{
   height: auto;
   text-align: center;
 }
-article img{
-  margin-top: 15vh;
-}
 #product{
   background: #FF5722;
+}
+#prod{
+  width: 50%;
+  height: 300px;
 }
 aside{
   float: right;
@@ -141,8 +142,19 @@ label{
   margin-top: 10px;
   color: #212121;
 }
+#omOs{
+    text-align: center;
+    background: #ffffff;
+}
+#omOss{
+    text-align: center;
+}
 #kontaktaOss{
   padding-top: 770px;
+}
+#grupp{
+  width: 50%;
+  height: 300px;
 }
 #name, #_replyto{
   height: 4vh;
