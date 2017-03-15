@@ -120,7 +120,7 @@ article{
   background: #FF5722;
 }
 #prod{
-  width: 50%;
+  width: auto;
   height: 300px;
 }
 aside{
@@ -153,8 +153,9 @@ label{
   padding-top: 770px;
 }
 #grupp{
-  width: 50%;
+  width: auto;
   height: 300px;
+  margin-top: 10px;
 }
 #name, #_replyto{
   height: 4vh;
